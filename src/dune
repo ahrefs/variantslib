@@ -1,3 +1,3 @@
-(library (name variantslib) (public_name variantslib) (libraries base)
+(library (name variantslib) (public_name variantslib)
  (modes :standard melange)
  (preprocess no_preprocessing))
